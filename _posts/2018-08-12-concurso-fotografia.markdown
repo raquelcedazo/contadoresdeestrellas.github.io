@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Actividad: Lluvia de estrellas en familia - Perseidas 2018"
-img: himalayan.jpg # Add image post (optional)
+title: "Concursos de fotografía de Perseidas 2018"
+img: concurso.jpg # Add image post (optional)
 date: 2018-08-12 00:00:00 +0200
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-tag: [Perseidas, Citizen Science, General Public]
+description: Si nos compartes tus fotografías, podrás ganar un meteorito, un puntero láser y algunas cosas más. Sigue leyendo... # Add post description (optional)
+tag: [Concurso, Fotografía, Perseidas]
 ---
-Esta actividad ...
+Concurso y bases ...
 
 Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
 
