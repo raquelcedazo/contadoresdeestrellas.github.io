@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
-baseurl: "/es" # the subpath of your site, e.g. /blog
+baseurl: "/bef" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
@@ -19,7 +19,7 @@ author-name: Equipo de contadores # your name
 about-author: UPM + IAC # about author
 email: proyectocontadoresdeestrellas@gmail.com # your email
 phone: (496)-169-6557 # your pnone number
-website: http://www.contadoresdeestrellas.github.io/es # you website
+website: http://www.contadoresdeestrellas.github.io/bef # you website
 
 # Social link
 twitter_url:   http://twitter.com/starcounters
