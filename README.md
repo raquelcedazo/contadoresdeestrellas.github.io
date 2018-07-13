@@ -1,40 +1,18 @@
-# Bef is a responsive jekyll theme
+# Página web del proyecto Contadores de Estrellas 
 
-Bef - Blog Enjoy Freedom is a responsive jekyll theme which created to be simple and freedom.
+El Instituto Astrofísico de Canarias (IAC) y la Universidad Politécnica de Madrid (UPM) se han unido bajo el proyecto de ciencia ciudadana Contadores de Estrellas (www.contadoresdeestrellas.ciclope.info), financiado por la FECYT (Fundación Española para la Ciencia y la Tecnología), y han elaborado una actividad didáctica para que cualquier ciudadano pueda colaborar en estos conteos. La guía describe el procedimiento a seguir, por medio de unas apps que tienen que tener instaladas previamente en sus dispositivos móviles y utilizando un material muy básico. El reto es conseguir que, de una manera sencilla, el público general también pueda participar y entienda este fenómeno astronómico, así como otras curiosidades del cielo que están descritas en la guía. Esta actividad se plantea para realizarla en familia o en equipos, dado que el evento coincide en muchos casos en período vacacional y es muy habitual que los ciudadanos aprovechen la ocasión para salir a observar.
 
-## Demo
+## Plantilla jekyll  
 
-Check the theme in action [Demo](https://artemsheludko.github.io/bef/)
+La web utiliza la plantilla: [Bef](https://artemsheludko.github.io/bef/)
 
-The main page would look like this:
+## Redes sociales. Contáctanos y síguenos: 
 
-![Main page preview](https://github.com/artemsheludko/bef/blob/master/assets/img/bef_main_page.jpg?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/bef/blob/master/assets/img/bef_post.jpg?raw=true)
-
-## Features
-
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Vide](http://vodkabears.github.io/vide/)
-- [Disqus](https://disqus.com/)
-- [MailChimp](https://mailchimp.com/)
-- [Formspree!](https://formspree.io/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Share Buttons, Recent Post, Section Author, Contact and more...
-
-## Installation:
-
-Fork the ``master`` branch and delete ``gh-pages`` branch in it. This is important because ``gh-pages`` branch is used here only to host the blog. You should be using the master branch as the source and create a fresh ``gh-pages`` branch.
+- Correo electrónico: proyectocontadoresdeestrellas@gmail.com
+- [Twitter](http://fontawesome.io/): @starcounters
+- [Facebook](https://www.facebook.com/contadoresdeestrellas/): contadoresdeestrellas
+- [Instagram](http://instagram.com/contadoresdeestrellas): @contadoresdeestrellas
 
 ## License
 
 GNU General Public License v3.0
-
-## Donate
-
-<p>If you want to show your appreciation, buy me one <a href="https://www.buymeacoffee.com/artemsheludko" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a> ! Every five cups of coffee and a new theme for Jekyll is ready 😋</p>
-<p>Either way, your support is a way to thank me ❤️</p>
-<p align="center"><b>Thank you for your support!</b></p>
