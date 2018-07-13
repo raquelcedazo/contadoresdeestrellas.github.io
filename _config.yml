@@ -14,11 +14,11 @@ banner-title: # add banner title
 banner-desc: # add banner description
 
 # Author settings
-author-pic: logo-upm.jpg # your photo
-author-name: Equipo de contadores # your name
-about-author: UPM + IAC # about author
+author-pic: logo-contadores.png # your photo
+author-name: Equipo de trabajo # your name
+about-author: Universidad Politécnica de Madrid + Instituto Astrofísico de Canarias # about author
 email: proyectocontadoresdeestrellas@gmail.com # your email
-phone: (496)-169-6557 # your pnone number
+phone: # your pnone number
 website: http://www.contadoresdeestrellas.ciclope.info # you website
 
 # Social link

@@ -1,15 +1,15 @@
 ---
 layout: post
 title: "Actividad: Lluvia de estrellas en familia - Perseidas 2018"
-img: himalayan.jpg # Add image post (optional)
+img: family.jpg # Add image post (optional)
 date: 2018-08-12 00:00:00 +0200
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Perseidas, Citizen Science, General Public]
 ---
-Esta actividad ...
+Durante todas las lluvias de estrellas, amateurs de la Astronomía realizan conteos de los meteoros -o estrellas fugaces- y las envían a la Organización Internacional de Meteoros (IMO) para calcular las tasas de actividad de dichas lluvias. En estas Perseidas de 2018, el Instituto Astrofísico de Canarias (IAC) y la Universidad Politécnica de Madrid (UPM), se han unido bajo el proyecto de ciencia ciudadana Contadores de Estrellas (www.contadoresdeestrellas.ciclope.info), financiado por la FECYT (Fundación Española para la Ciencia y la Tecnología), y han elaborado una actividad didáctica para que cualquier ciudadano pueda colaborar en estos conteos. La guía describe el procedimiento a seguir, por medio de unas apps que tienen que tener instaladas previamente en sus dispositivos móviles y utilizando un material muy básico. El reto es conseguir que, de una manera sencilla, el público general también pueda participar y entienda este fenómeno astronómico, así como otras curiosidades del cielo que están descritas en la guía. Esta actividad se plantea para realizarla en familia o en equipos, dado que el evento coincide en muchos casos en período vacacional y es muy habitual que los ciudadanos aprovechen la ocasión para salir a observar.
 
-Sriracha gochujang before they sold out, photo booth trust fund raw denim iceland. Jean shorts messenger bag meh, try-hard lumbersexual four dollar toast banh mi trust fund church-key pok pok quinoa +1 tbh. Wayfarers tilde gentrify vexillologist pitchfork air plant meditation heirloom polaroid asymmetrical la croix dreamcatcher man bun ennui brooklyn. Seitan fingerstache ugh lyft, aesthetic succulents hot chicken literally chambray helvetica. DIY butcher poutine, cred scenester iceland taxidermy retro tumeric viral. Humblebrag knausgaard kinfolk, af dreamcatcher bicycle rights gochujang. Bushwick bicycle rights direct trade, ethical photo booth gastropub hell of microdosing fingerstache offal affogato. Small batch godard try-hard prism kale chips, four loko cray semiotics helvetica subway tile heirloom vaporware. Venmo VHS keytar succulents chambray.
+El proyecto ha establecido un concurso de fotografía que permitirá a los ciudadanos compartir sus fotos de esa noche de Perseidas y conseguir interesantes premios relacionados con la Astronomía.
 
 > Brunch hella poutine authentic farm-to-table. Stumptown craft beer lomo, heirloom single-origin coffee synth PBR&B post-ironic. <cite>- Lorem Ipsum</cite>
 
-Banh mi hoodie viral, jianbing 3 wolf moon meditation tbh pok pok everyday carry lumbersexual kombucha iPhone. Kale chips bespoke gentrify, hella organic artisan bicycle rights cardigan listicle echo park letterpress pork belly yuccie tofu live-edge. Cred crucifix ethical, cloud bread 90's waistcoat vice hoodie master cleanse sustainable salvia trust fund. Ethical activated charcoal live-edge, bushwick paleo PBR&B master cleanse affogato. Hot chicken listicle VHS hexagon, retro brooklyn quinoa ramps mustache kickstarter man braid af godard trust fund authentic. Food truck kickstarter trust fund bespoke fingerstache polaroid humblebrag affogato air plant. Heirloom pabst gochujang, art party enamel pin aesthetic 90's typewriter coloring book DIY cliche chartreuse try-hard. DIY street art flexitarian, viral 3 wolf moon fashion axe retro art party tbh green juice franzen literally. Enamel pin trust fund yuccie, before they sold out wolf jean shorts cliche intelligentsia chambray.
+Sigue...
