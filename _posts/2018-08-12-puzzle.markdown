@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Puzzles de constelaciones imprimibles para los más pequeños"
-img: puzzle.jpg # Add image post (optional)
+img: puzzle-black.jpg # Add image post (optional)
 date: 2018-08-10 00:00:00 +0200
 description: Entretén a los más pequeños de la expedición con esta manualidad. Sigue leyendo... # Add post description (optional)
 tag: [Puzzle, Entretenimiento, Recursos didácticos, Perseidas]
