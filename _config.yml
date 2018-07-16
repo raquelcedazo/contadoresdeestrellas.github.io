@@ -27,10 +27,10 @@ instagram_url: https://www.instagram.com/contadoresdeestrellas/
 facebook_url:  http://www.facebook.com/contadoresdeestrellas/ 
 
 # Disqus
-discus_identifier: mr-brown # add your discus identifier
+#discus_identifier: mr-brown # add your discus identifier
 
 # Newsletter
-mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+#mailchimp: # add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
 
 # Tracker
 analytics: UA-122307630-1
