@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Puzzles de constelaciones imprimibles para los más pequeños"
+img: puzzle.jpg # Add image post (optional)
+date: 2018-08-12 00:00:00 +0200
+description: Entretén a los más pequeños de la expedición con esta manualidad. Sigue leyendo... # Add post description (optional)
+tag: [Puzzle, Entretenimiento, Recursos didácticos, Perseidas]
+---
+Durante las Perseídas puede ser útil tener algunas formas didácticas de entretener a los más pequeños. Para ello hemos generado unos puzzles que podéis imprimir para que los más pequeños puedan recortar, pegar y utilizar como planetario para poder jugar a buscar las constelaciones.
