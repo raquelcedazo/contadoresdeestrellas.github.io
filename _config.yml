@@ -1,9 +1,6 @@
 logo: # add logo name
 title: Contadores de Estrellas - Proyecto de Ciencia Ciudadana para registrar las lluvias de estrellas
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Un proyecto para que entre todos ayudemos a contar meteoros en las lluvias de estrellas.
 permalink: ':title/'
 baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -18,13 +15,12 @@ author-pic: logo-contadores.png # your photo
 author-name: Equipo de trabajo # your name
 about-author: Universidad Politécnica de Madrid + Instituto Astrofísico de Canarias # about author
 email: proyectocontadoresdeestrellas@gmail.com # your email
-phone: # your pnone number
 website: http://www.contadoresdeestrellas.ciclope.info # you website
 
 # Social link
 twitter_url:   http://twitter.com/starcounters
 instagram_url: https://www.instagram.com/contadoresdeestrellas/
-facebook_url:  http://www.facebook.com/contadoresdeestrellas/ 
+facebook_url:  http://www.facebook.com/contadoresdeestrellas/
 
 # Disqus
 #discus_identifier: mr-brown # add your discus identifier

@@ -24,35 +24,41 @@ Dado que la jornada de mayor actividad de las Perseidas en 2018 será la noche d
 
 ## Formas de participación
 
-* Participación desde **Instagram**:
- * Seguir a Contadores de Estrellas en Instagram (@Contadoresdeestrellas)
- * Etiquetar a @Contadoresdeestrellas en la fotografía
- * Incluir el hashtag #contadoresPerseidas2018 en el título de la foto
- * Incluir la categoría en la que se participa en el título de la foto
-* Participar desde **Facebook**:
- * Dar “me gusta” y seguir a la página de Facebook de Contadores de Estrellas (@Contadoresdeestrellas)
- * Etiquetar a @Contadoresdeestrellas en la fotografía
- * Incluir la categoría en la que se participa en el título de la foto
-* Participar desde **Twitter**:
- * Seguir a Contadores de Estrellas en Twitter (@Starcounters)
- * Mencionar a @Starcounters en el tweet en el que se sube la fotografía
- * Incluir el hashtag #contadoresPerseidas2018 en el tweet
- * Incluir la categoría en la que se participa en el tweet
-* Participar por correo electrónico:
- * Enviar un correo electrónico con  la fotografía a proyectocontadoresdeestrellas@gmail.com
- * Incluir en el correo electrónico la categoría en la que participa la fotografía.
- * Incluir el nombre completo del participante
+### Participación desde **Instagram**:
+* Seguir a Contadores de Estrellas en Instagram (@Contadoresdeestrellas)
+* Etiquetar a @Contadoresdeestrellas en la fotografía
+* Incluir el hashtag #contadoresPerseidas2018 en el título de la foto
+* Incluir la categoría en la que se participa en el título de la foto
+
+### Participar desde **Facebook**:
+* Dar “me gusta” y seguir a la página de Facebook de Contadores de Estrellas (@Contadoresdeestrellas)
+* Etiquetar a @Contadoresdeestrellas en la fotografía
+* Incluir la categoría en la que se participa en el título de la foto
+
+### Participar desde **Twitter**:
+* Seguir a Contadores de Estrellas en Twitter (@Starcounters)
+* Mencionar a @Starcounters en el tweet en el que se sube la fotografía
+* Incluir el hashtag #contadoresPerseidas2018 en el tweet
+* Incluir la categoría en la que se participa en el tweet
+
+### Participar por correo electrónico:
+* Enviar un correo electrónico con  la fotografía a proyectocontadoresdeestrellas@gmail.com
+* Incluir en el correo electrónico la categoría en la que participa la fotografía.
+* Incluir el nombre completo del participante
 
 ## Proceso de votación
 
 * Las fotografías recibidas serán publicadas por Contadores de estrellas en la misma red social en la que se haya recibido. En el caso de las participaciones por correo electrónico, las fotografías serán publicadas en una o varias de las tres redes sociales mencionadas.
-* Las fotografías (publicadas por Contadores de estrellas) con mayor número de “me gusta” serán seleccionadas para pasar a la votación final del jurado, formado por:
- * Juan Carlos Casado, Astrofotógrafo, Director OAA.
- * Miquel Serra-Ricart, Astrónomo IAC.
- * Esteban González Guardia, Investigador de la UPM.
+* Las fotografías (publicadas por Contadores de estrellas) con mayor número de “me gusta” serán seleccionadas para pasar a la votación final del jurado especificado más adelante.
 * El 1 de septiembre de 2018 se publicarán los resultados del concurso en todas las redes sociales
 Se contactará con los participantes ganadores por el mismo medio por el que participaron. En caso de no obtener respuesta en un plazo de 1 semana, el premio pasará al siguiente concursante mejor valorado de la misma categoría.
 * Los premios serán enviados a la dirección indicada por los ganadores.
+
+## Jurado
+
+* Juan Carlos Casado, Astrofotógrafo, Director OAA.
+* Miquel Serra-Ricart, Astrónomo IAC.
+* Esteban González Guardia, Investigador de la UPM.
 
 ## Categorías y Premios
 
