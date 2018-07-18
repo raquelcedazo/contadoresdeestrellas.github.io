@@ -2,7 +2,7 @@
 layout: post
 title: "Cuentos e historias sobre Perseidas"
 img: cuentos.jpg # Add image post (optional)
-date: 2018-08-11 00:00:00 +0200
+date: 2018-07-18 00:00:00 +0200
 description: Fantásticas historias y cuentos para despertar el interés de los más pequeños. Sigue leyendo... # Add post description (optional)
 tag: [Cuentos, Historias, Entretenimiento, Recursos didácticos, Perseidas]
 ---
