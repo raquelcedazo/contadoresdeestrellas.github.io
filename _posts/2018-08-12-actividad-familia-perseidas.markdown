@@ -12,6 +12,6 @@ La guía describe el procedimiento a seguir, por medio de unas apps que tienen q
 
 El proyecto ha establecido un [concurso](/concurso-fotografia/) de fotografía que permitirá a los ciudadanos compartir sus fotos de esa noche de Perseidas y conseguir interesantes premios relacionados con la Astronomía.
 
-Se han elaborado además otros recursos didácticos para los más pequeños, como [puzzles](/puzzle/) y [cuentos](cuentos).
+Se han elaborado además otros recursos didácticos para los más pequeños, tales como [puzzles](/puzzle/) y [cuentos](cuentos).
 
-[Enlazaremos en breve la actividad en PDF]()
+[Descarga la actividad. Te recomendamos que la lleves impresa para que el móvil lo utilices para las diferentes apps y el registro de los datos.](../assets/docs/actividad-didactica-perseidas-familia.pdf)
