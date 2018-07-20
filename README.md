@@ -9,7 +9,7 @@ La web utiliza la plantilla: [Bef](https://artemsheludko.github.io/bef/)
 ## Redes sociales. Contáctanos y síguenos: 
 
 - Correo electrónico: proyectocontadoresdeestrellas@gmail.com
-- [Twitter](http://fontawesome.io/): @starcounters
+- [Twitter](http://www.twitter.com/starcounters): @starcounters
 - [Facebook](https://www.facebook.com/contadoresdeestrellas/): contadoresdeestrellas
 - [Instagram](http://instagram.com/contadoresdeestrellas): @contadoresdeestrellas
 
