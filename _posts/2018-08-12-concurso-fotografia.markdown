@@ -66,3 +66,5 @@ Se contactará con los participantes ganadores por el mismo medio por el que par
 * Categoría 2: Mejor foto de grupo. Premio: Puntero láser.
 * Categoría 3: Al grupo más numeroso. Premio: Frontal de luz roja (sin celofán :)).
 * Categoría 4: Al mejor postre de la noche. Premio: Planisferio.
+
+![Meteorito primer premio](../assets/img/premios/meteorito-nwa-3119.jpg = 300px)
