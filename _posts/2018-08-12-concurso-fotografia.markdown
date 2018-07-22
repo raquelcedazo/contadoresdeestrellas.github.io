@@ -68,3 +68,6 @@ Se contactará con los participantes ganadores por el mismo medio por el que par
 * Categoría 4: Al mejor postre de la noche. Premio: Planisferio.
 
 ![Meteorito primer premio](../assets/img/premios/meteorito-nwa-3119-thumbnail.jpg)
+![Láser verde segundo premio](../assets/img/premios/laser-thumbnail.jpg)
+![Frontal tercer premio](../assets/img/premios/frontal-thumbnail.jpg)
+![Planisferio cuarto premio](../assets/img/premios/planisferio-thumbnail.jpg)
