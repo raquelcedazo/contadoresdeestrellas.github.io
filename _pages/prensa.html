@@ -4,8 +4,20 @@ title: Prensa
 permalink: /prensa/
 ---
 
-<h1>Perseidas</h1>
+<section class="about">
+  <a href="{{site.baseurl}}/" class="button_back"><i class="fa fa-long-arrow-left" aria-hidden="true"></i> Volver</a>
+  <div class="about_box">
+    <div class="author">
+        <div class="author_info">
+          <h2 class="author_title">{% if site.author-name %}{{site.author-name}}{% else %}Perseidas 2018{% endif %}</h2>
+          <p class="author_subtitle">Este año, sin Luna, el espectáculo de las Perseidas está asegurado.</p>
+          <p class="author_subtitle">La lluvia de estrellas de las Perseidas  será retransmitida en directo y simultáneamente desde el Anillo (Cáceres) y el Observatorio del Teide (IAC, Tenerife) a través del canal sky-live.tv, el día 12 de agosto, con la colaboración del proyecto europeo STARS4ALL y la iniciativa impulsada por la Junta de Extremadura, “Extremadura, Buenas Noches”.</p>
+          <p>Vuelven las Perseidas y esta vez con una propuesta de observación para toda la familia englobada en el proyecto de ciencia ciudadana “Contadores de estrellas” financiado por la FECYT.</p>
+        </div>
+      </div>
 
-<p>Este año, sin Luna, el espectáculo de las Perseidas está asegurado.</p>
-<p>La lluvia de estrellas de las Perseidas  será retransmitida en directo y simultáneamente desde el Anillo (Cáceres) y el Observatorio del Teide (IAC, Tenerife) a través del canal sky-live.tv, el día 12 de agosto, con la colaboración del proyecto europeo STARS4ALL y la iniciativa impulsada por la Junta de Extremadura, “Extremadura, Buenas Noches”.</p>
-<p>Vuelven las Perseidas y esta vez con una propuesta de observación para toda la familia englobada en el proyecto de ciencia ciudadana “Contadores de estrellas” financiado por la FECYT.</p>
+      <div class="about_social">
+        {% include social_footer.html %}
+      </div>
+    </div> <!-- End Section Author -->
+</section>
