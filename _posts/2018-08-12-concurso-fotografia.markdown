@@ -62,12 +62,12 @@ Se contactará con los participantes ganadores por el mismo medio por el que par
 
 ## Categorías y Premios
 
-* Categoría 1: Mejor foto del cielo. Premio: [Meteorito NWA 3119](https://www.litos.net/tienda/meteoritos/182-nwa-3119.html). Puedes ver todos los detalles en la web de compra: Condrita brechada LL3-4, de Argelia 2009, mide 6 x 3 cm y 4 mm de grosor y pesa 15,2 gramos. Espectacular ejemplar con varias litologías. Condrulos increibles.
+* Categoría 1: Mejor foto del cielo. Premio: [Meteorito NWA 3119](https://www.litos.net/tienda/meteoritos/182-nwa-3119.html). Puedes ver todos los detalles en la web: Condrita brechada LL3-4, de Argelia 2009, mide 6 x 3 cm y 4 mm de grosor y pesa 15,2 gramos. Espectacular ejemplar con varias litologías. Condrulos increibles.
 * Categoría 2: Mejor foto de grupo. Premio: Puntero láser.
 * Categoría 3: Al grupo más numeroso. Premio: Frontal de luz roja (sin celofán :)).
 * Categoría 4: Al mejor postre de la noche. Premio: Planisferio.
 
-Los modelos exactos de los premios puede que no sean exactamente los de las siguiente fotos. Dependerá de las existencias en el momento de la compra:
+_Los modelos exactos de los premios puede que no sean exactamente los de las siguiente fotos. Dependerá de las existencias en el momento de la compra._
 
 ![Meteorito primer premio](../assets/img/premios/meteorito-nwa-3119-thumbnail.jpg)
 ![Láser verde segundo premio](../assets/img/premios/laser-thumbnail.jpg)
