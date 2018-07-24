@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nota de prensa - Perseidas 2018"
-img: notadeprensa-perseidas-2.png
+img: notadeprensa-perseidas-2-thumbnail.png
 date: 2018-07-27 00:00:00 +0200
 tag: [Prensa, Perseidas]
 ---
