@@ -6,7 +6,7 @@ baseurl: # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
-video: contadoresdeestrellas-family.jpg # add banner video. Add your video file to the folder video
+video: perseidas110817-dpadron.mp4 # add banner video. Add your video file to the folder video
 banner-title: # add banner title
 banner-desc: # add banner description
 
