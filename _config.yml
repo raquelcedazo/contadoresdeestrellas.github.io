@@ -7,7 +7,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: contadoresdeestrellas-family.jpg # add banner video. Add your video file to the folder video
-banner-title: Todos somos contadores # add banner title
+banner-title: # add banner title
 banner-desc: Noches de verano 12 - 13 de agosto # add banner description
 
 # Author settings
