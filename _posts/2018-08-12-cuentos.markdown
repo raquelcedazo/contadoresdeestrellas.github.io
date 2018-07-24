@@ -8,6 +8,13 @@ tag: [Cuentos, Historias, Entretenimiento, Recursos didácticos, Perseidas]
 ---
 Contar meteoros puede ser una tarea no muy atractiva para los más pequeños y un tanto aburrida. Así que os dejamos aquí unas cuantas historias y cuentos para que puedas deleitarles y despertar su interés escuchando o leyendo acerca de Perseo y otras curiosidades.
 
-[En breve pondremos aquí los recursos]()
+## Cuento sobre las Perseidas
+Autor: Carlos Javier Rodríguez Jiménez
+
+_El cielo nocturno es una de las cosas más bellas que nos ofrece la naturaleza. Sorprende comprobar que solo unos pocos miran al cielo de vez en cuando, mientras que la mayoría de las personas se pierden entre masas de estrellas que se empujan entre sí, cambiando la apariencia del firmamento de hora en hora, de estación en estación, permaneciendo ajenas a la contemplación del inmenso reino natural del cual nació el planeta Tierra.
+
+En este cuento Póllux y Cástor os acercarán a una maravillosa noche como la de hoy. Las perseidas serán las responsables de que estos dos hermanos se motiven los suficiente para poder aportar a la humanidad la solución para desintegrar al Gran Asteroide el Sr Asclepio._
+
+[![Cuento sobre las Perseidas: Sr. Asclepio](../assets/img/Cuento-sobre-las-Perseidas.png)](../assets/docs/Cuento-Perseidas-Sr-Asclepio.pdf)
 
 Si conoces otras historias o cuentos, para uso libre, por favor, envíanoslas y las añadiremos a este artículo. ¡Muchas gracias!
