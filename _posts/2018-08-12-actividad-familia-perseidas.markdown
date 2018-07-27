@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Actividad: Lluvia de estrellas en familia - Perseidas 2018"
-img: family.jpg # Add image post (optional)
-date: 2018-08-12 00:00:00 +0200
+img: triptico-anverso.png # Add image post (optional)
+date: 2018-07-27 00:00:00 +0200
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 tag: [Perseidas, Citizen Science, General Public]
 ---
@@ -10,8 +10,11 @@ Durante todas las lluvias de estrellas, amateurs de la Astronomía realizan cont
 
 La guía describe el procedimiento a seguir, por medio de unas apps que tienen que tener instaladas previamente en sus dispositivos móviles y utilizando un material muy básico. El reto es conseguir que, de una manera sencilla, el público general también pueda participar y entienda este fenómeno astronómico, así como otras curiosidades del cielo que están descritas en la guía. Esta actividad se plantea para realizarla en familia o en equipos, dado que el evento coincide en muchos casos en período vacacional y es muy habitual que los ciudadanos aprovechen la ocasión para salir a observar.
 
+[Descarga la actividad en PDF](../assets/docs/actividad-didactica-perseidas-familia.pdf). Te recomendamos que la **lleves impresa** para que puedas utilizar el móvil para registrar los datos y utilizar algún planetario.
+
 El proyecto ha establecido un [concurso](/concurso-fotografia/) de fotografía que permitirá a los ciudadanos compartir sus fotos de esa noche de Perseidas y conseguir interesantes premios relacionados con la Astronomía.
 
 Se han elaborado además otros recursos didácticos para los más pequeños, tales como [puzzles](/puzzle/) y [cuentos](/cuentos/).
 
-[Descarga la actividad. Te recomendamos que la lleves impresa para que el móvil lo utilices para las diferentes apps y el registro de los datos.](../assets/docs/actividad-didactica-perseidas-familia.pdf)
+![Triptico anverso](../assets/img/triptico-anverso.png)
+![Triptico reverso](../assets/img/triptico-reverso.png)
