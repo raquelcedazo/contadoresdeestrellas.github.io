@@ -15,6 +15,8 @@ tag: [Prensa, Perseidas]
 
 Como cada año, las Perseidas -también conocidas como “Lágrimas de San Lorenzo”- muestran su pico de actividad a mediados de agosto. Para el año 2018 la actividad de las Perseidas se producirá entre el  17 de julio  y el 24 de agosto. El máximo se espera a la 01:00 UT del 13 de agosto. En Europa, por tanto, las noches del 11 al 12 y del 12 al 13 de agosto serán los mejores momentos para la observación de la lluvia de estrellas. Gracias a la Luna nueva  podremos observar una buena cantidad de meteoros (en media un observador podrá ver uno cada dos minutos) algunos de ellos muy brillantes (debido a sus altas velocidades de entrada en la atmósfera) si estamos situados en un lugar oscuro -sin contaminación lumínica- y con horizontes despejados. Según comenta Miquel Serra-Ricart, astrónomo del IAC, “Este año, por fin, vamos a tener una noche muy oscura por la ausencia de luna. Si nos situamos en un lugar sin contaminación lumínica y sin nubes el espectáculo está asegurado”.
 
+![Logo FECYT](../assets/img/LogoMinisterioBandera-FECYT.jpg)![Logo EU](../assets/img/EU_flag.jpg)
+
 ### Una lluvia con historia
 Las llamadas ‘estrellas fugaces’ son en realidad pequeñas partículas de polvo de distintos tamaños, algunas menores que granos de arena, que van dejando los cometas -o asteroides- a lo largo de sus órbitas alrededor del Sol. La nube de partículas resultante (llamados meteoroides), debido al “deshielo” producido por el calor solar, se dispersa por la órbita del cometa y es atravesada cada año por La Tierra en su órbita alrededor del Sol. Durante este encuentro, las partículas de polvo se desintegran al entrar a gran velocidad en la atmósfera terrestre, creando los conocidos trazos luminosos que reciben el nombre científico de meteoros.
 La actividad de las Perseidas que tiene como progenitor al cometa Swift-Tuttle, descubierto en 1862, y que actualmente con un tamaño aproximado de 26km de diámetro es el mayor objeto que de forma periódica se acerca a la Tierra.
@@ -39,14 +41,11 @@ Extremadura Buenas Noches proyecto englobado dentro de la Estrategia de la Noche
 
 Tres centros españoles de Supercomputación: el Centro Extremeño de Tecnologías Avanzadas (CETA-CIEMAT), el Consorci de Serveis Universitaris de Catalunya (CSUC) y el Instituto de Astrofísica de Canarias (IAC) colaborarán en la distribución de la retransmisión del portal web (sky-live.tv).
 
-
 #### Material didáctico
-Contadores de Estrellas [Material](http://contadoresdeestrellas.ciclope.info/material/)
+Contadores de Estrellas: [Material](http://contadoresdeestrellas.ciclope.info/material/)
 
 #### Material audiovisual
-Secuencias de las mejores Perseidas 2016 y 2017,
-[https://youtu.be/gJyGY7RistI](https://youtu.be/gJyGY7RistI)
-[https://flic.kr/p/X2VDGw](https://flic.kr/p/X2VDGw)
+Secuencias de las mejores Perseidas de [2016](https://youtu.be/gJyGY7RistI) y [2017](https://flic.kr/p/X2VDGw).
 
 Imágenes alta resolución Lluvias de Estrellas,
 [https://www.flickr.com/photos/65131760@N06/sets/72157634760969777/](https://www.flickr.com/photos/65131760@N06/sets/72157634760969777/)
