@@ -8,16 +8,25 @@ tag: [Cuentos, Historias, Entretenimiento, Recursos didácticos, Perseidas]
 ---
 Contar meteoros puede ser una tarea no muy atractiva para los más pequeños y un tanto aburrida. Así que os dejamos aquí unas cuantas historias y cuentos para que puedas deleitarles y despertar su interés escuchando o leyendo acerca de Perseo y otras curiosidades.
 
-## Cuento sobre las Perseidas
+## Cuento: El Señor Asclepio
 Autor: Carlos Javier Rodríguez Jiménez
 
 > El cielo nocturno es una de las cosas más bellas que nos ofrece la naturaleza. Sorprende comprobar que solo unos pocos miran al cielo de vez en cuando, mientras que la mayoría de las personas se pierden entre masas de estrellas que se empujan entre sí, cambiando la apariencia del firmamento de hora en hora, de estación en estación, permaneciendo ajenas a la contemplación del inmenso reino natural del cual nació el planeta Tierra.
 
 > En este cuento Póllux y Cástor os acercarán a una maravillosa noche como la de hoy. Las perseidas serán las responsables de que estos dos hermanos se motiven los suficiente para poder aportar a la humanidad la solución para desintegrar al Gran Asteroide el Sr Asclepio.
 
-Pincha en la imagen y descarca el [PDF](../assets/docs/Cuento-Perseidas-Sr-Asclepio.pdf).
+Pincha en la imagen y descarga el [PDF](../assets/docs/Cuento-Perseidas-Sr-Asclepio.pdf).
 
-[![Cuento sobre las Perseidas: Sr. Asclepio](../assets/img/Cuento-sobre-las-Perseidas.png)](../assets/docs/Cuento-Perseidas-Sr-Asclepio.pdf)
+[![Cuento sobre las Perseidas: Sr. Asclepio](../assets/img/Cuento-Perseidas-Sr-Asclepio.png)](../assets/docs/Cuento-Perseidas-Sr-Asclepio.pdf)
+
+_Este cuento está en el libro "Como Dos Lunas Llenas. Cuentos sobre espectáculos celestes ilustrados en 3D" y donde se puede incluso visualizar las ilustraciones en 3D [http://comodoslunasllenas.com/](http://comodoslunasllenas.com/)._
+
+## Cuento: Una noche de estrellas en un lugar para soñar
+Autor: Carlos Javier Rodríguez Jiménez
+
+Pincha en la imagen y descarga el [PDF](../assets/docs/Cuento-Perseidas-Una-Noche-De-Estrellas.pdf).
+
+[![Cuento sobre las Perseidas: Una noche de estrellas en un lugar para soñar](../assets/img/Cuento-Perseidas-Una-Noche-De-Estrellas.png)](../assets/docs/Cuento-Perseidas-Una-Noche-De-Estrellas.pdf)
 
 ## La leyenda católica
 Otro nombre con el que se conoce este fenómeno es el de **Lágrimas de San Lorenzo**, cuya onomástica se celebra el día 10 de agosto, fecha que suele coincidir con la lluvia de meteoros, aunque no siempre con la noche en que se observan con más frecuencia. Se cuenta que San Lorenzo Mártir fue quemado vivo en una parrilla, en Roma, y se le atribuye una muerte valiente, llegando incluso a decir a sus verdugos: “dadme la vuelta, que por este lado ya estoy hecho”.
