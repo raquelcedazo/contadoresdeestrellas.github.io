@@ -8,6 +8,25 @@ tag: [Puzzle, Entretenimiento, Recursos didácticos, Perseidas]
 ---
 Durante las Perseídas puede ser útil tener algunas formas didácticas de entretener a los más pequeños. Para ello hemos generado unos puzzles que podéis imprimir para que los más pequeños puedan recortar, pegar y utilizar como planetario y jugar después a buscar las constelaciones.
 
-[En breve pondremos los recursos aquí]()
+La preparación del puzzle se lleva un rato, así que os aconsejamos que hagáis la tarea antes de la expedición y dejéis la lluvia de estrellas para disfrutar y simplemente usar el mapa-puzzle para situarse en el cielo.
 
-Te agradeceríamos que nos enviáseis una foto a nuestros canales o por correo electrónico del puzzle construido. Nos hará mucha ilusión saber que lo habéis utilizado.
+## Puzzle con fondo oscuro - 16 piezas
+
+Este cielo corresponde al mapa de constelaciones que se verán desde Madrid (España) la noche del 13 de agosto, durante el máximo de las Perseidas.
+
+![Imagen del puzzle fondo oscuro](../assets/docs/puzzles/puzzle-fondo-oscuro.png)
+
+Descarga las 16 piezas del puzzle: [PDF 1-4 piezas](../assets/docs/puzzles/puzzle-oscuro-1.pdf), [PDF 5-8 piezas](../assets/docs/puzzles/puzzle-oscuro-2.pdf), [PDF 9-12 piezas](../assets/docs/puzzles/puzzle-oscuro-3.pdf) y [PDF 13-16 piezas](../assets/docs/puzzles/puzzle-oscuro-4.pdf). Vienen divididas en 4 páginas diferentes. Lo que tendréis que hacer será imprimirlas, recortarlas y montar el puzzle, tal y como se muestra en la siguiente foto del montaje:
+
+![Montaje puzzle paso 2](../assets/docs/puzzles/puzzle-montaje-1.jpg)![Montaje puzzle paso 3](../assets/docs/puzzles/puzzle-montaje-2.jpg)
+
+
+
+## Puzzle con fondo blanco - 16 piezas
+
+Con esta versión del puzzle, sobre fondo blanco, los más pequeños pueden jugar además a pintar las constelaciones cada vez que las identifiquen en el cielo.
+
+[En breve...]()
+
+
+**Te agradeceríamos que nos enviáseis una foto a nuestros canales o por correo electrónico del puzzle construido. Nos hará mucha ilusión saber que lo habéis utilizado.**
