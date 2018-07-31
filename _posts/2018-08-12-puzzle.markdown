@@ -6,9 +6,9 @@ date: 2018-07-18 00:00:00 +0200
 description: Entretén a los más pequeños de la expedición con esta manualidad. Sigue leyendo... # Add post description (optional)
 tag: [Puzzle, Entretenimiento, Recursos didácticos, Perseidas]
 ---
-Durante las Perseídas puede ser útil tener algunas formas didácticas de entretener a los más pequeños. Para ello hemos generado unos puzzles que podéis imprimir para que los más pequeños puedan recortar, pegar y utilizar como planetario y jugar después a buscar las constelaciones.
+Durante las Perseídas puede ser útil tener algunas formas didácticas de entretener a los más pequeños. Para ello hemos generado unos puzzles que podéis imprimir para que los más pequeños puedan **recortar**, **pegar** y utilizar como **planisferio y jugar después a buscar las constelaciones**.
 
-La preparación del puzzle se lleva un rato, así que os aconsejamos que hagáis la tarea antes de la expedición y dejéis la lluvia de estrellas para disfrutar y simplemente usar el mapa-puzzle para situarse en el cielo.
+La preparación del puzzle dependerá de la edad del niño pero os aconsejamos que hagáis la tarea antes de la expedición y dejéis la lluvia de estrellas para disfrutar y simplemente usar el mapa-puzzle para situarse en el cielo.
 
 ## Puzzle con fondo oscuro - 16 piezas
 
@@ -16,9 +16,9 @@ Este cielo corresponde al mapa de constelaciones que se verán desde Madrid (Esp
 
 ![Imagen del puzzle fondo oscuro](../assets/docs/puzzles/puzzle-fondo-oscuro.png)
 
-Descarga las 16 piezas del puzzle en estos cuatro archivos: [PDF 1-4 piezas](../assets/docs/puzzles/puzzle-oscuro-1.pdf), [PDF 5-8 piezas](../assets/docs/puzzles/puzzle-oscuro-2.pdf), [PDF 9-12 piezas](../assets/docs/puzzles/puzzle-oscuro-3.pdf) y [PDF 13-16 piezas](../assets/docs/puzzles/puzzle-oscuro-4.pdf). Vienen divididas en 4 páginas diferentes. Lo que tendréis que hacer será imprimirlas, recortarlas y montar el puzzle, tal y como se muestra en la siguiente foto del montaje:
+Descarga las 16 piezas del puzzle en estos cuatro archivos: [PDF 1-4 piezas](../assets/docs/puzzles/puzzle-oscuro-1.pdf), [PDF 5-8 piezas](../assets/docs/puzzles/puzzle-oscuro-2.pdf), [PDF 9-12 piezas](../assets/docs/puzzles/puzzle-oscuro-3.pdf) y [PDF 13-16 piezas](../assets/docs/puzzles/puzzle-oscuro-4.pdf). Vienen divididas en 4 páginas diferentes, formando un puzzle de un tamaño 29 cm x 29 cm aproximadamente. Lo que tendréis que hacer será imprimir las 4 páginas, recortar las piezas y montar el puzzle, tal y como se muestra en la siguiente foto del montaje:
 
-![Montaje puzzle paso 2](../assets/docs/puzzles/puzzle-montaje-1-thumbnail.jpg)![Montaje puzzle paso 3](../assets/docs/puzzles/puzzle-montaje-2-thumbnail.jpg)
+![Montaje puzzle paso 0](../assets/docs/puzzles/puzzle-montaje-0-thumbnail.jpg)![Montaje puzzle paso 1](../assets/docs/puzzles/puzzle-montaje-1-thumbnail.jpg)![Montaje puzzle paso 2](../assets/docs/puzzles/puzzle-montaje-2-thumbnail.jpg)![Montaje puzzle paso 3](../assets/docs/puzzles/puzzle-montaje-3-thumbnail.jpg)
 
 ## Puzzle con fondo blanco - 16 piezas
 
