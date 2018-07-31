@@ -16,7 +16,7 @@ Este cielo corresponde al mapa de constelaciones que se verán desde Madrid (Esp
 
 ![Imagen del puzzle fondo oscuro](../assets/docs/puzzles/puzzle-fondo-oscuro.png)
 
-Descarga las 16 piezas del puzzle: [PDF 1-4 piezas](../assets/docs/puzzles/puzzle-oscuro-1.pdf), [PDF 5-8 piezas](../assets/docs/puzzles/puzzle-oscuro-2.pdf), [PDF 9-12 piezas](../assets/docs/puzzles/puzzle-oscuro-3.pdf) y [PDF 13-16 piezas](../assets/docs/puzzles/puzzle-oscuro-4.pdf). Vienen divididas en 4 páginas diferentes. Lo que tendréis que hacer será imprimirlas, recortarlas y montar el puzzle, tal y como se muestra en la siguiente foto del montaje:
+Descarga las 16 piezas del puzzle en estos cuatro archivos: [PDF 1-4 piezas](../assets/docs/puzzles/puzzle-oscuro-1.pdf), [PDF 5-8 piezas](../assets/docs/puzzles/puzzle-oscuro-2.pdf), [PDF 9-12 piezas](../assets/docs/puzzles/puzzle-oscuro-3.pdf) y [PDF 13-16 piezas](../assets/docs/puzzles/puzzle-oscuro-4.pdf). Vienen divididas en 4 páginas diferentes. Lo que tendréis que hacer será imprimirlas, recortarlas y montar el puzzle, tal y como se muestra en la siguiente foto del montaje:
 
 ![Montaje puzzle paso 2](../assets/docs/puzzles/puzzle-montaje-1-thumbnail.jpg)![Montaje puzzle paso 3](../assets/docs/puzzles/puzzle-montaje-2-thumbnail.jpg)
 
@@ -24,7 +24,10 @@ Descarga las 16 piezas del puzzle: [PDF 1-4 piezas](../assets/docs/puzzles/puzzl
 
 Con esta versión del puzzle, sobre fondo blanco, los más pequeños pueden jugar además a pintar las constelaciones cada vez que las identifiquen en el cielo.
 
-[En breve...]()
+![Imagen del puzzle fondo blanco coloreado](../assets/docs/puzzles/puzzle-fondo-blanco-coloreado.jpg)
 
+Descarga las 16 piezas del puzzle en [PDF](../assets/docs/puzzles/puzzle-blanco.pdf) y realiza el montaje como en el caso anterior.
+
+> Os deseamos que saquéis un hueco en este verano y paséis unos buenos momentos con vuestra familia haciendo este puzzle. Seguro que despierta el interés de muchos niños por descubrir el cielo.
 
 **Te agradeceríamos que nos enviáseis una foto a nuestros canales o por correo electrónico del puzzle construido. Nos hará mucha ilusión saber que lo habéis utilizado.**
