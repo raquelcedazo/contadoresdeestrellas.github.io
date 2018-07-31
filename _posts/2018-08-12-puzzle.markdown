@@ -12,15 +12,13 @@ La preparación del puzzle se lleva un rato, así que os aconsejamos que hagáis
 
 ## Puzzle con fondo oscuro - 16 piezas
 
-Este cielo corresponde al mapa de constelaciones que se verán desde Madrid (España) la noche del 13 de agosto, durante el máximo de las Perseidas.
+Este cielo corresponde al mapa de constelaciones que se verán desde Madrid (España) la noche del 13 de agosto, durante la máxima actividad de las Perseidas de 2018.
 
 ![Imagen del puzzle fondo oscuro](../assets/docs/puzzles/puzzle-fondo-oscuro.png)
 
 Descarga las 16 piezas del puzzle: [PDF 1-4 piezas](../assets/docs/puzzles/puzzle-oscuro-1.pdf), [PDF 5-8 piezas](../assets/docs/puzzles/puzzle-oscuro-2.pdf), [PDF 9-12 piezas](../assets/docs/puzzles/puzzle-oscuro-3.pdf) y [PDF 13-16 piezas](../assets/docs/puzzles/puzzle-oscuro-4.pdf). Vienen divididas en 4 páginas diferentes. Lo que tendréis que hacer será imprimirlas, recortarlas y montar el puzzle, tal y como se muestra en la siguiente foto del montaje:
 
-![Montaje puzzle paso 2](../assets/docs/puzzles/puzzle-montaje-1.jpg)![Montaje puzzle paso 3](../assets/docs/puzzles/puzzle-montaje-2.jpg)
-
-
+![Montaje puzzle paso 2](../assets/docs/puzzles/puzzle-montaje-1-thumbnail.jpg)![Montaje puzzle paso 3](../assets/docs/puzzles/puzzle-montaje-2-thumbnail.jpg)
 
 ## Puzzle con fondo blanco - 16 piezas
 
