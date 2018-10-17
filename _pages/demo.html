@@ -1,0 +1,68 @@
+---
+layout: page
+title: Youtube Demo
+permalink: /demo/
+---
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Meteoritos en YouTube</title>
+
+    <script src="/assets/js/canvas.js"></script>
+    <script src="/assets/js/app-state.js"></script>
+    <script src="/assets/js/youtube.js"></script>
+
+    <link rel="stylesheet" href="/assets/css/main_youtube.css">
+
+    <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600" rel="stylesheet">
+</head>
+
+<body>
+
+    <h1>¡Busca meteoros!</h1>
+
+    <div class="app">
+        <div class="video-wrapper">
+            <canvas width="900" height="540" class="hide"></canvas>
+            <div id="player"></div>
+        </div>
+        <div class="app-controls">
+            <div class="see-one" onclick="step2()">
+                <img src="/assets/img/meteor.svg" alt="">
+            </div>
+            <div class="draw">
+                <button class="cancel" onclick="step1()">Cancelar</button>
+                <div class="frame-controls">
+                    <div class="go-back" onclick="prevFrame()">
+                        <img src="/assets/img/move-frame.svg" alt="" style="transform:rotate(180deg)">
+                    </div>
+                    <div class="go-forward" onclick="nextFrame()">
+                        <img src="/assets/img/move-frame.svg" alt="">
+                    </div>
+                </div>
+                <div class="frame-msg" id="frame-msg"></div>
+            </div>
+            <div class="edit-arrow">
+                <button class="back" onclick="step2()">Atrás</button>
+                <div class="inputs">
+                    <h4>Información del meteoro:</h4>
+                    <div class="color">
+                        <label for="name">Color: </label>
+                        <input type="color" id="colorInput" value="#ff0000" name="color">
+                    </div>
+                    <div class="width">
+                        <label for="width">Anchura: </label>
+                        <input name="width" type="range" min="1" max="16" value="4" oninput="changeWidth()" id="range">
+                    </div>
+                </div>
+                <button class="ok" onclick="step3()">Finalizar</button>
+            </div>
+        </div>
+    </div>
+
+    <p class="message" id="message"></p>
+
+    <script src="/assets/js/script.js"></script>
+
+</body>
