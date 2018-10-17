@@ -1,0 +1,232 @@
+:root {
+    --bck-1: #000000;
+    --bck-2: #030917;
+    --bck-3: #081525;
+    --bck-4: #0E1E2E;
+    --bck-5: #202D3F;
+    --bck-6: #f2f2f2;
+    --font-color: #FFA650;
+    --primary: #961b15;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: var(--bck-3);
+    color: var(--font-color);
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1 {
+    width: 100%;
+    font-size: 25px;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.app {
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.app .video-wrapper {
+    position: relative;
+}
+
+.app .video-wrapper canvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: rgba(255, 255, 255, .2);
+    z-index: inherit;
+}
+
+.app .video-wrapper canvas.hide {
+    z-index: -1;
+}
+
+.app-controls {
+    width: 270px;
+}
+
+.app-controls>div {
+    display: none;
+}
+
+.app-controls .see-one {
+    border-radius: 50%;
+    background: var(--bck-6);
+    padding: 40px;
+    cursor: pointer;
+    width: 100px;
+    margin: 0 auto;
+}
+
+.app-controls .see-one img {
+    height: 100px;
+
+}
+
+.app-controls .draw {
+    width: 95%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+
+}
+
+.app-controls .draw .cancel,
+.app-controls .edit-arrow .back,
+.app-controls .edit-arrow .ok {
+    width: 100%;
+    margin: 0 auto;
+    border: none;
+    box-shadow: none;
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+.app-controls .draw .cancel {
+    background: #b22929;
+}
+
+.app-controls .edit-arrow .ok {
+    background: #208c4b;
+}
+
+.app-controls .edit-arrow .back {
+    background: var(--bck-6);
+    color: var(--bck-2);
+
+}
+
+
+.app-controls .draw .frame-controls {
+    display: flex;
+    justify-content: space-around;
+}
+
+.app-controls .draw .frame-controls>div {
+    width: 70px;
+    height: 70px;
+    margin: 20px 0;
+    padding: 10px;
+    border-radius: 50%;
+    background: #f2f2f2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.app-controls .draw .frame-controls .go-back img {
+    margin-right: 10px;
+}
+
+.app-controls .draw .frame-controls .go-forward img {
+    margin-left: 10px;
+}
+
+.app-controls .draw .frame-controls img {
+    width: 40px;
+    height: 40px;
+}
+
+.frame-msg {
+    color: var(--bck-6);
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 17px;
+    height: 17px;
+}
+
+.message {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    background: var(--bck-6);
+    padding: 40px;
+    text-align: center;
+    margin: 0;
+    color: var(--bck-2);
+    font-size: 20px;
+}
+
+.message.error {
+    background: #b22929;
+    color: var(--bck-6);
+}
+
+.edit-arrow .inputs {
+    color: var(--bck-6);
+    margin: 20px 0;
+}
+
+.edit-arrow h4 {
+    font-size: 17px;
+    margin: 10px 0;
+    text-align: left;
+}
+
+.edit-arrow input {
+    margin-left: 10px;
+}
+
+.edit-arrow input[type="color"] {
+    height: 35px;
+    width: 35px;
+    border: 0;
+}
+
+
+.edit-arrow input[type="color"i] {
+    padding: 5px;
+    border-radius: 50%;
+    background: transparent;
+
+}
+
+input[type=range] {
+    -webkit-appearance: none;
+    width: 150px;
+    margin: 13.8px 10px;
+}
+
+input[type=range]:focus {
+    outline: none;
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    height: 8.4px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+    background: #3071a9;
+    border-radius: 1.3px;
+    border: 0.2px solid #010101;
+}
+
+input[type=range]::-webkit-slider-thumb {
+    box-shadow: 1px 1px 1px #000000, 0px 0px 1px #0d0d0d;
+    border: 1px solid #000000;
+    height: 24px;
+    width: 24px;
+    border-radius: 50%;
+    background: #ffffff;
+    cursor: pointer;
+    -webkit-appearance: none;
+    margin-top: -8px;
+}
+
+input[type=range]:focus::-webkit-slider-runnable-track {
+    background: #367ebd;
+}
