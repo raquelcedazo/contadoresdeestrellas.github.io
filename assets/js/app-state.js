@@ -52,3 +52,29 @@ function step3() {
     document.querySelector('.app canvas').classList.remove('hide');
     player.pauseVideo(1);
 }
+function sendJSON(data){
+var http = new XMLHttpRequest();
+var url = 'http://vps190.cesvima.upm.es:1723/meteors';
+http.open('POST', url, true);
+//Send the proper header information along with the request
+http.setRequestHeader('Content-type', 'application/json');
+
+http.onreadystatechange = function() {//Call a function when the state changes.
+    if(http.readyState == 4 && http.status == 200) {
+            alert(http.responseText);
+                }
+               }
+             http.send(JSON.stringify(data));
+}
+function sendData(){
+	console.log(points);
+	console.log("videoId: "+ videoId);
+	var data  = {
+		color : document.getElementById('colorInput').value,
+		origin: {x:points.A.x, y:points.A.y,time:points.A.second},
+		end: {x:points.B.x, y:points.B.y,time:points.B.second},
+		video_id: videoId
+	};
+	sendJSON(data);
+	step1();
+}

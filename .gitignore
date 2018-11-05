@@ -6,3 +6,4 @@ yarn.lock
 Gemfile
 Gemfile.lock
 .DS_Store
+nohup.out
