@@ -61,12 +61,10 @@ function startVideo(internal_id,second){
                             },
                             {
                               title:'Coordenadas geográficas',
-                              value: data.latitude+ " " + data.longitude
+                              value: data.latitude+ ", " + data.longitude
                             },
-                            {
-                              title: "MALE",
-                              value: data.MALE
-                            }];
+                          ];
+                          
                           moreInfo();
 			  createPlayer(url[url.length-1],second);
 			}
