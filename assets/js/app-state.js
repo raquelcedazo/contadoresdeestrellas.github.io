@@ -78,3 +78,4 @@ function sendData(){
 	sendJSON(data);
 	step1();
 }
+
