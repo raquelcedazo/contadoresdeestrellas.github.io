@@ -28,6 +28,7 @@ permalink: /demo/
             <div id="player"></div>
         </div>
         <div class="app-controls">
+          <p class="message" id="message"></p>
             <div class="see-one" onclick="step2()">
                 <img src="/assets/img/meteor.svg" alt="">
             </div>
@@ -58,11 +59,25 @@ permalink: /demo/
                 </div>
                 <button class="ok" onclick="sendData()">Finalizar</button>
             </div>
+            <div class="more-info" id="moreInfo">Más info</div>
+        </div>
+    </div>
+    <div class="overlay" id="overlay">
+      <div class="video-info" id="videoInfo">
+        <div class="modal-header">
+          <h2>Información del vídeo</h2>
+          <h6>Cerrar</h6>
+        </div>
+        <nav>
+          <ul id="moreInfoList">
+          </ul>
+        </nav>
+
         </div>
     </div>
 
-    <p class="message" id="message"></p>
 
+    <script src="/assets/js/modal-info.js"></script>
     <script src="/assets/js/script.js"></script>
 
 </body>

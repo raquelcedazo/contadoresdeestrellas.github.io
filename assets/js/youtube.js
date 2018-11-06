@@ -5,6 +5,26 @@ tag.src = "https://www.youtube.com/iframe_api";
 const firstScriptTag = document.getElementsByTagName('script')[0];
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
 
+var apiInfo = {
+  videoId: 'L0hfNjhmTpc',
+  moreInfo: [{
+      title: 'Nombre de la lluvia',
+      value: 'Perseidas'
+    },
+    {
+      title: 'Fecha de captura',
+      value: new Date()
+    },
+    {
+      title: 'Coordenadas geográficas',
+      value: '40.551124 -3.4908171'
+    },
+    {
+      title: 'MALE',
+      value: 715
+    }
+  ]
+}
 
 var videoId = "";
 
@@ -28,24 +48,43 @@ function startVideo(internal_id,second){
 			if (err!=null){
 				alert("Error when getting video from our API");
 			} else{
-				var url = data.url.split("=");
-				createPlayer(url[url.length-1],second);
+
+			  var url = data.url.split("=");
+                          apiInfo.videoId = url[url.length-1];
+                          apiInfo.moreInfo = [
+                            {
+                            title: 'Nombre del vídeo',
+                            value: data.name
+                            },
+                            {
+                              title:'Fecha de captura',
+                              value: ""+data.date.day+"/"+data.date.month+"/"+data.date.year
+                            },
+                            {
+                              title:'Coordenadas geográficas',
+                              value: data.latitude+ " " + data.longitude
+                            },
+                            {
+                              title: "MALE",
+                              value: data.MALE
+                            }];
+			  createPlayer(url[url.length-1],second);
 			}
 	});
 }
 function createPlayer(id, seconds){
-	 player = new YT.Player('player', {
-		 height: '540',
-		 width: '900',
-		 videoId: id,
-		 events: {
-			 'onReady': onPlayerReady
-		 },
-		 playerVars: {
-			 'rel': 0,				           
-			 'start': seconds
-		 }
-	 });
+  player = new YT.Player('player', {
+    height: '540',
+    width: '900',
+    videoId: id,
+    events: {
+      'onReady': onPlayerReady
+    },
+    playerVars: {
+      'rel': 0,
+      'start': seconds
+    }
+  });
 }
 function onYouTubeIframeAPIReady() {
 	console.log("IFRAME READY");
