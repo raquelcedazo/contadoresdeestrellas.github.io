@@ -4,7 +4,6 @@ const tag = document.createElement('script');
 tag.src = "https://www.youtube.com/iframe_api";
 const firstScriptTag = document.getElementsByTagName('script')[0];
 firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
-
 var apiInfo = {
   videoId: 'L0hfNjhmTpc',
   moreInfo: [{
@@ -43,7 +42,7 @@ var getJSON = function(url, callback) {
 	xhr.send();
 };
 function startVideo(internal_id,second){
-	getJSON("http://vps190.cesvima.upm.es:1723/videos/"+internal_id,
+  getJSON("http://vps190.cesvima.upm.es:1723/videos/"+internal_id,
 		function(err,data){
 			if (err!=null){
 				alert("Error when getting video from our API");
@@ -68,6 +67,7 @@ function startVideo(internal_id,second){
                               title: "MALE",
                               value: data.MALE
                             }];
+                          moreInfo();
 			  createPlayer(url[url.length-1],second);
 			}
 	});

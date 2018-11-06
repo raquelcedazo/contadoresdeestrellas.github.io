@@ -9,4 +9,4 @@ let points = {
 initCanvas();
 initAppState();
 
-moreInfo();
+//moreInfo();
