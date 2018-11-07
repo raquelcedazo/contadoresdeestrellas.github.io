@@ -8,10 +8,11 @@ tag: [Semana ciencia]
 ---
 El próximo día 8 de noviembre se celebra en la Escuela Técnica Superior de Ingeniería y Diseño Industrial diferentes actividades con motivo de la XVIII Semana de la Ciencia de Madrid.
 
-Una de estas actividades será la presentación de nuestro proyecto **Contadores de estrellas**. Al evento asistirá un grupo de 30 alumnos de enseñanza secundaria del Centro CEPA Vallecas. Además asistirán algunos representantes del grupo de radiodetección de la Agrupación Astronómica Madrid Sur
-(http://www.aamadridsur.org/) y alumnos y personal de la propia Escuela.
+Una de estas actividades será la presentación de nuestro proyecto **Contadores de estrellas**. Al evento asistirá un grupo de 30 alumnos de enseñanza secundaria del Centro CEPA Vallecas. Además asistirán algunos representantes del grupo de radiodetección de la [Agrupación Astronómica Madrid Sur](http://www.aamadridsur.org/) y alumnos y personal de la propia Escuela.
 
 En la presentación contaremos con Miquel Serra, astrónomo del IAC y administrador del observatorio de El Teide, que presentará la parte científica sobre el Sistema Solar y los meteoros. Raquel Cedazo, profesora de la Universidad Politécnica de Madrid nos hablará de la parte tecnológica y de los objetivos del proyecto. Después los asistentes podrán ir a una sala de ordenadores y hacer de "testers" de una demo que estamos desarrollando en el proyecto.
+
+**Pincha aquí para probar la [DEMO](http://vps190.cesvima.upm.es/demo/).**
 
 ## Concurso en directo
 
