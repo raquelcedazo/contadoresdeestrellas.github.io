@@ -30,7 +30,7 @@ function step1() {
         'B': undefined
     }
     showState('see-one');
-  writeMsg('Cuando veas un meteoro, clickea el dibujo de la derecha');
+  writeMsg('Cuando veas un meteoro, pincha en el siguiente botón');
     clearCanvas();
     document.querySelector('.app canvas').classList.add('hide');
     if (player !== undefined) {
