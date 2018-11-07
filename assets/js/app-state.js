@@ -30,7 +30,7 @@ function step1() {
         'B': undefined
     }
     showState('see-one');
-    writeMsg('Cuando veas un meteoro, clickea el dibujo de la derecha')
+  writeMsg('Cuando veas un meteoro, clickea el dibujo de la derecha');
     clearCanvas();
     document.querySelector('.app canvas').classList.add('hide');
     if (player !== undefined) {
@@ -39,7 +39,7 @@ function step1() {
 }
 
 function step2() {
-    writeMsg('Pon el vídeo exactamente cuando aparece el meteoro usando los botones de &#9194; y &#9193;')
+  writeMsg('Pon el vídeo exactamente cuando aparece el meteoro usando los botones de &#9194; y &#9193; y marca con el ratón el punto inicial');
     showState('draw');
     document.querySelector('.app canvas').classList.remove('hide');
     player.pauseVideo(1);
@@ -47,7 +47,7 @@ function step2() {
 
 function step3() {
     showState('edit-arrow');
-    writeMsg('Cambia los parámetros del meteoro y finaliza')
+  writeMsg('Cambia los parámetros de color y anchura del meteoro y pincha en ENVIAR');
 
     document.querySelector('.app canvas').classList.remove('hide');
     player.pauseVideo(1);
