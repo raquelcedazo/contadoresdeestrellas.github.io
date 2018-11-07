@@ -30,7 +30,7 @@ function step1() {
         'B': undefined
     }
     showState('see-one');
-    writeMsg('Cuando veas un meteoro, clickea el dibujo de la derecha')
+  writeMsg('Cuando veas un meteoro, pincha en el siguiente botón');
     clearCanvas();
     document.querySelector('.app canvas').classList.add('hide');
     if (player !== undefined) {
@@ -39,7 +39,7 @@ function step1() {
 }
 
 function step2() {
-    writeMsg('Pon el vídeo exactamente cuando aparece el meteoro usando los botones de &#9194; y &#9193;')
+  writeMsg('Pon el vídeo exactamente cuando aparece el meteoro usando los botones de &#9194; y &#9193; y marca con el ratón el punto inicial');
     showState('draw');
     document.querySelector('.app canvas').classList.remove('hide');
     player.pauseVideo(1);
@@ -47,8 +47,35 @@ function step2() {
 
 function step3() {
     showState('edit-arrow');
-    writeMsg('Cambia los parámetros del meteoro y finaliza')
+  writeMsg('Cambia los parámetros de color y anchura del meteoro y pincha en ENVIAR');
 
     document.querySelector('.app canvas').classList.remove('hide');
     player.pauseVideo(1);
 }
+function sendJSON(data){
+var http = new XMLHttpRequest();
+var url = 'http://vps190.cesvima.upm.es:1723/meteors';
+http.open('POST', url, true);
+//Send the proper header information along with the request
+http.setRequestHeader('Content-type', 'application/json');
+
+http.onreadystatechange = function() {//Call a function when the state changes.
+    if(http.readyState == 4 && http.status == 200) {
+            alert(http.responseText);
+                }
+               }
+             http.send(JSON.stringify(data));
+}
+function sendData(){
+	console.log(points);
+	console.log("videoId: "+ videoId);
+	var data  = {
+		color : document.getElementById('colorInput').value,
+		origin: {x:points.A.x, y:points.A.y,time:points.A.second},
+		end: {x:points.B.x, y:points.B.y,time:points.B.second},
+		video_id: videoId
+	};
+	sendJSON(data);
+	step1();
+}
+

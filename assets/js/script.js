@@ -6,5 +6,7 @@ let points = {
   B: undefined
 };
 
-initCanvas()
+initCanvas();
 initAppState();
+
+//moreInfo();

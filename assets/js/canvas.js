@@ -32,7 +32,7 @@ function listenToCanvas(e) {
         if (points.A.second === 0) {
             writeMsg('El vídeo no ha cargado aún', true)
         } else {
-            writeMsg('Muy bien, ahora avanza el vídeo y sitúate en el último frame donde aparece el meteoro')
+            writeMsg('Muy bien, ahora avanza el vídeo con el botón &#9193, sitúate en el último instante donde aparece el meteoro y marca con el ratón el punto final')
         }
     } else {
         setPoint('B', e.offsetX, e.offsetY)
