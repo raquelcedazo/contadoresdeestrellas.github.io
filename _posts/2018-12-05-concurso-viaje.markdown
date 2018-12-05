@@ -31,8 +31,9 @@ El vídeo de la retransmisión muestra la hora local de la retransmisión en la 
 
 ## Proceso de análisis
 
-Se premiará al concursante que más meteoros haya reportado primero durante toda la retransmisión. Se analizarán todos los mensajes del chat. En primer lugar, se determinarán en qué instantes aparecen los meteoros y, en base a eso, se otorgará un punto al usuario que haya reportado cada meteoro en primer lugar. Es importante destacar que sólo contabilizarán los mensajes que sigan el formato correcto.
-El 11 de enero de 2019 se publicarán en todas nuestras redes sociales los resultados del concurso con la clasificación de los concursantes. Se contactará con la persona ganadora a través de su correo de Google con el que participó en el concurso. En caso de no obtener respuesta en un plazo de 1 semana o el concursante lo rechazase, el premio pasará al siguiente concursante y así sucesivamente.
+Se premiará al concursante que más meteoros haya reportado primero durante toda la retransmisión. Se analizarán todos los mensajes del chat. En primer lugar, se determinarán en qué instantes aparecen los meteoros y, en base a eso, se otorgará **un punto** al usuario que haya reportado cada meteoro en primer lugar. Es importante destacar que sólo contabilizarán los mensajes que sigan el formato correcto.
+
+El **11 de enero de 2019** se publicarán en todas nuestras redes sociales los resultados del concurso con la clasificación de los concursantes. Se contactará con la persona ganadora a través de su correo de Google con el que participó en el concurso. En caso de no obtener respuesta en un plazo de 1 semana o el concursante lo rechazase, el premio pasará al siguiente concursante y así sucesivamente.
 
 Si los organizadores consideran que un usuario ha intentado hacer trampas o un uso indebido, los organizadores podrán anular su participación.
 
