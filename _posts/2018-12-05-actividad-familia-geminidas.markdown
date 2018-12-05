@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Actividad: Lluvia de estrellas en familia - Gemínidas 2018"
-img: foto-geminidias-iac.jpg # Add image post (optional)
+img: foto-geminidas-iac.jpg # Add image post (optional)
 date: 2018-12-05 00:00:00 +0200
 description: Os ofrecemos una unidad didáctica para observar y registrar la lluvia de estrellas de las Gemínidas. # Add post description (optional)
 tag: [Geminidas, Ciencia ciudadana, Familia, Unidad didáctica]
