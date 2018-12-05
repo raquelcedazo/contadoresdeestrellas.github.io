@@ -21,7 +21,7 @@ La participación en el presente concurso supone la aceptación íntegra de esta
 
 ## Duración del concurso
 
-El concurso tendrá lugar durante toda la retransmisión de las Gemínidas a través del canal [http://sky-live.tv](sky-live.tv) el día 14 de diciembre desde las 22:30 hora UT (Universal Time).
+El concurso tendrá lugar durante toda la retransmisión de las Gemínidas a través del canal [sky-live.tv](http://sky-live.tv) el día 14 de diciembre desde las 22:30 hora UT (Universal Time).
 
 ## Cómo participar
 
