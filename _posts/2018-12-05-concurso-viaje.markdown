@@ -2,7 +2,7 @@
 layout: post
 title: "Concurso de un viaje - Gemínidas 2018"
 img: viaje-avion.jpg # Add image post (optional)
-date: 2018-08-12 00:00:00 +0200
+date: 2018-12-05 15:06:00 +0200
 description: ¡No te pierdas la última gran lluvia del año y un concurso de lo más cómodo! # Add post description (optional)
 tag: [Concurso, Viaje, Gemínidas, Detecciones, Meteoros, Premios]
 ---
@@ -25,7 +25,7 @@ El concurso tendrá lugar durante toda la retransmisión de las Gemínidas a tra
 
 ## Cómo participar
 
-El concursante debe acceder a la retransmisión del evento a través del portal sky-live.tv y pinchar en ["Gemínidas - Cámara del cielo"](https://youtu.be/mFUBpGEjY54 ). Aparecerá el vídeo a la izquierda y el chat a la derecha. A través del chat, el concursante tiene que escribir en qué hora del vídeo aparece cada uno de los meteoros. Se premiará al concursante que haya reportado en primer lugar más meteoros. En caso de empate, se tendrá en cuenta la rapidez de la detección.
+El concursante debe acceder a la retransmisión del evento a través del portal sky-live.tv y pinchar en ["Gemínidas - Cámara del cielo" https://youtu.be/mFUBpGEjY54](https://youtu.be/mFUBpGEjY54). Aparecerá el vídeo a la izquierda y el chat a la derecha. A través del chat, el concursante tiene que escribir en qué hora del vídeo aparece cada uno de los meteoros. Se premiará al concursante que haya reportado en primer lugar más meteoros. En caso de empate, se tendrá en cuenta la rapidez de la detección.
 
 El vídeo de la retransmisión muestra la hora local de la retransmisión en la esquina superior. Esa es la hora que hay escribir en el chat. Para indicar que se ha visto un meteoro a una determinada hora, hay que escribir un mensaje en el chat que comience con la hora de aparición en el formato HH:MM:SS, es decir, hora, minutos y segundos del instante en el que aparece el meteoro.
 
