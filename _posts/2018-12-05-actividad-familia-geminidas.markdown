@@ -13,5 +13,3 @@ La guía describe el procedimiento a seguir, por medio de unas apps que los ciud
 [Descarga la actividad en PDF](../assets/docs/actividad-didactica-geminidas-familia.pdf). Te recomendamos que la **lleves impresa** para que puedas utilizar el móvil para registrar los datos y utilizar algún planetario.
 
 El proyecto ha establecido un [concurso](/concurso-viaje/) de un fantástico viaje en el cual para participar sólo se necesita seguir las Gemínidas en directo desde el canal [sky-live.tv](http://sky-live.tv) y ser el más rápido detectando los meteoros. Lee todas las bases y detalles en la página del [concurso](/concurso-viaje/).
-
-Se han elaborado además otros recursos didácticos para los más pequeños, tales como [puzzles](/puzzle/) y [cuentos](/cuentos/).
