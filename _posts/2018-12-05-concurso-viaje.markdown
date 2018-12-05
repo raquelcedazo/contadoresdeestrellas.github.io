@@ -29,6 +29,10 @@ El concursante debe acceder a la retransmisión del evento a través del portal 
 
 El vídeo de la retransmisión muestra la hora local de la retransmisión en la esquina superior. Esa es la hora que hay escribir en el chat. Para indicar que se ha visto un meteoro a una determinada hora, hay que escribir un mensaje en el chat que comience con la hora de aparición en el formato HH:MM:SS, es decir, hora, minutos y segundos del instante en el que aparece el meteoro.
 
+Mira este vídeo donde te explicamos cómo hacerlo:
+
+[![Imagen del video de YouTube](../assets/img/video-youtube.png)](https://www.youtube.com/watch?v=Xk4LNK09q4s)
+
 ## Proceso de análisis
 
 Se premiará al concursante que más meteoros haya reportado primero durante toda la retransmisión. Se analizarán todos los mensajes del chat. En primer lugar, se determinarán en qué instantes aparecen los meteoros y, en base a eso, se otorgará **un punto** al usuario que haya reportado cada meteoro en primer lugar. Es importante destacar que sólo contabilizarán los mensajes que sigan el formato correcto.
