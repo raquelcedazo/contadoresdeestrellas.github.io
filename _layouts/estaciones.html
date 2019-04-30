@@ -1,0 +1,124 @@
+---
+layout: default
+---
+{% include header.html %}
+
+<main class="post_content">
+  <article class="post">
+    <header>
+      <div class="post_description">
+        <p class="post_meta">{{page.date | date: '%Y, %b %d'}}</p>
+        <h1 class="post_title">{{page.title}}</h1>
+      </div>
+    </header> <!-- End Header -->
+
+    <div class="entry_content">
+      {{page.content | markdownify}}
+      <div id="radios"></div>
+    </div>
+
+    <div class="post_wrapper">
+      <footer class="post_footer cf">
+        <div class="post_share">
+          <span>Share:</span>
+          <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}" title="Share on Twitter" rel="nofollow" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+          <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}" title="Share on Facebook" rel="nofollow" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+          <a href="https://plus.google.com/share?url={{ site.url }}{{ page.url }}" title="Share on Google+" rel="nofollow" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a>
+        </div>
+      </footer>
+    </div>
+  </article> <!-- End Section Post -->
+
+  <section class="author cf">
+    <div class="post_wrapper">
+      <div class="author_image">
+        <img src="{{site.baseurl}}/assets/img/{% if site.author-pic %}{{ site.author-pic }}{% endif %}" alt="Author face">
+      </div>
+      <div class="author_info">
+        <h2 class="author_title">{% if site.author-name %}{{site.author-name}}{% else %}Dwayne Newman{% endif %}</h2>
+        <p class="author_subtitle">{% if site.about-author %}{{site.about-author}}{% else %}La croix godard blue bottle, vape iceland fingerstache cronut single-origin coffee lyft snackwave normcore small batch.{% endif %}</p>
+        <div class="author_social">
+          {% if site.email %}
+          <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:{{site.email}}">{{site.email}}</a></span>
+          {% else %}
+          <span class="author_email"><i class="fa fa-envelope-o" aria-hidden="true"></i> <a href="mailto:dwayne@example.com">dwayne@example.com</a></span>
+          {% endif %}
+
+          {% if site.website %}
+          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="{{site.website}}" target="_blank">{{site.website}}</a></span>
+          {% else %}
+          <span class="author_website"><i class="fa fa-link" aria-hidden="true"></i> <a href="#" target="_blank">https://dwayne.example.com</a></span>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+  </section> <!-- End Section Author -->
+
+  <section class="recent_box">
+    <div class="post_wrapper">
+      <h2 class="recent_title">Recent post</h2>
+      <div class="recent_list">
+        {% for post in site.posts offset:0 limit:6 %}
+        {% if post.title %}
+        <a href="{{ root_url }}{{ post.url }}" class="recent_item" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )"><span>{{ post.title }}</span></a>
+        {% endif %}
+        {% endfor %}
+      </div>
+    </div>
+  </section> <!-- End Section Recent Box -->
+
+  {% include disqus.html %}
+
+</main> <!-- End Section Post Content -->
+
+{% include footer.html %}
+
+<script>
+  var getJSON = function(url, callback) {
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', url, true);
+    xhr.responseType = 'json';
+    xhr.onload = function() {
+      var status = xhr.status;
+      if (status === 200) {
+        callback(null, xhr.response);
+      } else {
+        callback(status, xhr.response);
+      }
+    };
+    xhr.send();
+  };
+
+  function isArray(what) {
+    return Object.prototype.toString.call(what) === '[object Array]';
+  }
+
+  function addStation(station) {
+    // console.log(`${station.server_name} ${station.listenurl}`)
+    if (station.server_name == "Contadores de Estrellas - aula_de_astronom-xed-x61_de_fuenlabrada") {
+      station.server_name = "Aula de astronomía de Fuenlabrada"
+    }
+
+    var html =
+      `<div  id="${station.server_name}"><h4>${station.server_name}</h4><p><audio xmlns="http://www.w3.org/1999/xhtml" controls="controls" preload="none" controlsList="nodownload"><source src="${station.listenurl}" type="application/ogg" /></audio></p><p>Descarga: <a href="${station.listenurl}.m3u">m3u</a></p></div>`
+    var div = document.getElementById('radios');
+
+    div.innerHTML += html;
+  }
+
+  getJSON('http://161.72.128.8:8000/status-json.xsl',
+    function(err, data) {
+      if (err !== null) {
+        console.log('Something went wrong: ' + err);
+      } else {
+        if (isArray(data.icestats.source)) {
+          data.icestats.source.forEach(obj => {
+            addStation(obj)
+            // console.log('-------------------');
+          });
+        } else {
+          addStation(data.icestats.source)
+        }
+      }
+    });
+</script>
