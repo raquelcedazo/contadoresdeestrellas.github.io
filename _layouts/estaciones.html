@@ -100,7 +100,7 @@ layout: default
     }
 
     var html =
-      `<div  id="${station.server_name}"><h4>${station.server_name}</h4><p><audio xmlns="http://www.w3.org/1999/xhtml" controls="controls" preload="none" controlsList="nodownload"><source src="${station.listenurl}" type="application/ogg" /></audio></p><p>Descarga: <a href="${station.listenurl}.m3u">m3u</a></p></div>`
+      `<div  id="${station.server_name}"><h4>${station.server_name}</h4><p><audio xmlns="http://www.w3.org/1999/xhtml" controls="controls" preload="none" controlsList="nodownload"><source src="${station.listenurl}" type="application/ogg" /></audio></p><p>Descarga: <a href="${station.listenurl}.m3u">M3U</a> <a href="${station.listenurl}.xspf">XSPF</a></p></div>`
     var div = document.getElementById('radios');
 
     div.innerHTML += html;

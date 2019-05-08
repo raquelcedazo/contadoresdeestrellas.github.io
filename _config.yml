@@ -3,7 +3,7 @@ title: Contadores de Estrellas - Proyecto de Ciencia Ciudadana para registrar la
 description: Un proyecto para que entre todos ayudemos a contar meteoros en las lluvias de estrellas.
 permalink: ':title/'
 baseurl: # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.contadoresdeestrellas.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: contadoresdeestrellas-family.jpg # add banner video. Add your video file to the folder video
