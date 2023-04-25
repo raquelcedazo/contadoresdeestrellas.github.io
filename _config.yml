@@ -3,7 +3,7 @@ title: Contadores de Estrellas - Proyecto de Ciencia Ciudadana para registrar la
 description: Un proyecto para que entre todos ayudemos a contar meteoros en las lluvias de estrellas.
 permalink: ':title/'
 baseurl: # the subpath of your site, e.g. /blog
-url: "http://www.contadoresdeestrellas.org" # the base hostname & protocol for your site, e.g. http://example.com
+# url: "http://www.contadoresdeestrellas.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Banner settings
 video: contadoresdeestrellas-family.jpg # add banner video. Add your video file to the folder video
@@ -15,7 +15,7 @@ author-pic: logo-contadores.png # your photo
 author-name: Equipo de trabajo # your name
 about-author: Universidad Politécnica de Madrid + Instituto Astrofísico de Canarias # about author
 email: proyectocontadoresdeestrellas@gmail.com # your email
-website: http://www.contadoresdeestrellas.org # you website
+# website: http://www.contadoresdeestrellas.org # you website
 
 # Social link
 twitter_url:   http://twitter.com/starcounters
